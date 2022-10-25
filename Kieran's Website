@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Kieran Orman</title>
+</head>
+
+<body>
+  <img src="https://tiermaker.com/images/templates/5548421598152836.jpg" alt="Henry Sickmin Picture">
+  <h1>Kieran Orman</h1>
+<p><em>Student at <a href="https://bsch.rccdsb.edu.on.ca/">Bishop Smith Catholic High School</a> </em></p>
+<p>My favourite dessert is ice cream and brownies</p>
+<hr>
+<h3>Everything I like to do</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=9WJqVM0FEKQ">Badminton</a></li>
+<li><a href="https://www.youtube.com/watch?v=UnNUEvs2Ev0">Ultimate Frisbee</a></li>
+</ul>
+<h3>My Hobbies</h3>
+<ol>
+  <li>Drawing</li>
+  <li>Media Arts</li>
+  <li>Doing anything active</li>
+</ol>
+</body>
+</html>
